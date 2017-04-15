@@ -1,2 +1,2 @@
 # satoshium.org
-satoshium.org Static Website
+satoshium.org website
